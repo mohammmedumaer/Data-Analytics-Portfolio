@@ -10,7 +10,7 @@ In this project, I explored and visualized Covid-19 data using MySQL and Tableau
 In this project, I performed exploratory data analysis on a Electronic Products sales dataset using Excel. The project included cleaning and preparing the data, generating descriptive statistics and visualizations to understand key trends and patterns, and identifying potential areas for improvement in the sales process.
 
 **Employee Attrition Analysis**
-In this project, I analyzed employee attrition data using Python and libraries such as pandas, numpy, matplotlib, and seaborn. The project included cleaning and preprocessing the data, generating descriptive statistics and visualizations to identify factors that contribute to employee attrition.\n [Link](https://github.com/mohammmedumaer/Data-Analytics-Portfolio/tree/main/Covid_Project)
+In this project, I analyzed employee attrition data using Python and libraries such as pandas, numpy, matplotlib, and seaborn. The project included cleaning and preprocessing the data, generating descriptive statistics and visualizations to identify factors that contribute to employee attrition.
 
 **Foodie-Fi - A SQL Case Study**
 In this project, I worked on a SQL case study for a fictional online food ordering platform called Foodie-Fi. The project included designing a database schema, loading and cleaning data, and generating SQL queries to answer business questions related to customer behavior, orders, and revenue.
